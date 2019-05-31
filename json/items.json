@@ -3,7 +3,7 @@
         "name": "Blastoff",
         "description": "Blastoff is an arena style multiplayer game",
         "image": "media/blastoff/ss.png",
-        "link": "https://google.com"
+        "link": "explorepages/blastoff.html"
 	},
     {
         "name": "Watch Your Step",
@@ -21,6 +21,6 @@
         "name": "Password Hashing with AES",
         "description": "Complete user login system build with AES.",
         "image": "media/hashing/codeSS.png",
-        "link": "https://google.com"
+        "link": "https://github.com/nickhudson4/Password-Hashing-with-AES/"
 	}
 ]
