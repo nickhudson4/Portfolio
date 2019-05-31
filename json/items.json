@@ -1,26 +1,26 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
+        "name": "Blastoff",
+        "description": "Blastoff is an arena style multiplayer game",
+        "image": "media/blastoff/ss.png",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
+        "name": "Watch Your Step",
+        "description": "A game to display my custom AI",
+        "image": "media/boom/ss.png",
         "link": "https://google.com"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Plinc",
+        "description": "2D arcade style game inspired by plinko.",
+        "image": "media/plinc/ss.png",
+        "link": "https://play.google.com/store/apps/details?id=com.angular.plinc"
 	},
     {
-        "name": "Project 4",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
+        "name": "Password Hashing with AES",
+        "description": "Complete user login system build with AES.",
+        "image": "media/hashing/codeSS.png",
         "link": "https://google.com"
 	}
 ]

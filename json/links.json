@@ -1,26 +1,15 @@
 [
     {
-        "name": "Link",
+        "name": "Patreon",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://www.patreon.com/nickhudson4"
 	},
     {
-        "name": "Link",
+        "name": "Twitter",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "url": "https://twitter.com/GamesAngular"
 	}
+    
 ]
