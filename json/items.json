@@ -3,13 +3,13 @@
         "name": "Blastoff",
         "description": "Blastoff is an arena style multiplayer game",
         "image": "media/blastoff/ss.png",
-        "link": "explorepages/blastoff.html"
+        "link": "blastoff.html"
 	},
     {
         "name": "Watch Your Step",
         "description": "A game to display my custom AI",
         "image": "media/boom/ss.png",
-        "link": "https://google.com"
+        "link": "watchyourstep.html"
 	},
     {
         "name": "Plinc",
