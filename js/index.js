@@ -33,3 +33,17 @@ workRequest.onreadystatechange = function () {
     }
 };
 workRequest.send(null);
+
+
+function contactMeOnClick(){
+    var contactButton = document.getElementById("contactButton");
+    var parent = contactButton.parentElement;
+    contactButton.parentNode.removeChild(contactButton);
+    
+    var para = document.createElement("p");
+    var node = document.createTextNode("info@angulargames.us");
+    para.appendChild(node);
+    parent.appendChild(para);
+
+
+}
