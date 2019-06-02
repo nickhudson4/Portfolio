@@ -1,8 +1,12 @@
+* {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
 .explore-video-div {
     text-align: center;
 
 }
 
-h3 {
+h2{
     text-align: center;
 }

@@ -1,13 +1,13 @@
 [
     {
         "name": "Blastoff",
-        "description": "Blastoff is an arena style multiplayer game",
+        "description": "Arena style multiplayer game built with Unity",
         "image": "media/blastoff/ss.png",
         "link": "blastoff.html"
 	},
     {
         "name": "Watch Your Step",
-        "description": "A game to display my custom AI",
+        "description": "A game to demonstrate a custom AI implimentation",
         "image": "media/boom/ss.png",
         "link": "watchyourstep.html"
 	},
