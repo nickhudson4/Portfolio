@@ -6,10 +6,10 @@
         "link": "blastoff.html"
 	},
     {
-        "name": "Watch Your Step",
-        "description": "A game to demonstrate a custom AI implimentation",
-        "image": "media/boom/ss.png",
-        "link": "watchyourstep.html"
+        "name": "Bloop",
+        "description": "Arcade style mobile game",
+        "image": "media/boom/thrusterSS.png",
+        "link": "bloop.html"
 	},
     {
         "name": "Plinc",
