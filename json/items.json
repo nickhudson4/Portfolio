@@ -12,9 +12,15 @@
         "link": "bloop.html"
 	},
     {
+        "name": "N.E.A.T: Evolving Networks",
+        "description": "Machine learning project demonstrating speciation and evolving networks using N.E.A.T",
+        "image": "media/neat/neat_ss.png",
+        "link": "neat.html"
+	},
+    {
         "name": "Plinc",
         "description": "2D arcade style game inspired by plinko.",
-        "image": "media/plinc/ss.png",
+        "image": "media/plinc/rsz_ss.png",
         "link": "https://play.google.com/store/apps/details?id=com.angular.plinc"
 	},
     {
