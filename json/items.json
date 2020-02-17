@@ -12,6 +12,12 @@
         "link": "bloop.html"
 	},
     {
+        "name": "Roxy Plumbing and HVAC 3D CAD",
+        "description": "CAD program specific for the design and calculation of pipe systems for heating, cooling, sanitary, potable water and drainage systems.",
+        "image": "media/roxy/Screenshot_20200217_143139.png",
+        "link": "roxy.html"
+	},
+    {
         "name": "N.E.A.T: Evolving Networks",
         "description": "Machine learning project demonstrating speciation and evolving networks using N.E.A.T",
         "image": "media/neat/neat_ss.png",
