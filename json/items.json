@@ -1,5 +1,17 @@
 [
     {
+        "name": "Split Balloons",
+        "description": "Get as many balloons as possible to climb higher and higher",
+        "image": "media/PrototypeA2_balloons/ss.jpg",
+        "link": "splitballoons.html"
+	},
+    {
+        "name": "Sport Race",
+        "description": "Complete 3 stages against AI players to win the race",
+        "image": "media/PrototypeAI_basketball/ss.jpg",
+        "link": "sportrace.html"
+	},
+    {
         "name": "Blastoff",
         "description": "Arena style multiplayer game built with Unity",
         "image": "media/blastoff/ss.png",
