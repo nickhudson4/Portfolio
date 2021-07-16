@@ -41,7 +41,7 @@ function contactMeOnClick(){
     contactButton.parentNode.removeChild(contactButton);
     
     var para = document.createElement("p");
-    var node = document.createTextNode("info@angulargames.us");
+    var node = document.createTextNode("nickhudson@fingerfevergames.com");
     para.appendChild(node);
     parent.appendChild(para);
 
