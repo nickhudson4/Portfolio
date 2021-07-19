@@ -47,3 +47,8 @@ function contactMeOnClick(){
 
 
 }
+
+function backOnClick()
+{
+    console.log("Back on click!");
+}

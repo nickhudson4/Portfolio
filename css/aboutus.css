@@ -1,0 +1,16 @@
+* {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+.parent-div
+{
+    text-align: center;
+    margin: 100px 25%;
+}
+
+.image-main
+{
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+}

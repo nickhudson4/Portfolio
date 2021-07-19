@@ -187,3 +187,17 @@
 .secondary-dark-b {
     background-color: #FFA000;
 }
+
+/*Header*/
+
+.header-div
+{
+    padding: 10px;
+}
+
+.back-arrow-img
+{
+    width: 3em;
+    height: 3em;
+    /* padding: 3; */
+}
