@@ -1,0 +1,26 @@
+{
+    "title": "Token Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Hero1"
+        },
+        "decimals": {
+            "type": "integer",
+            "description": "18"
+        },
+        "description": {
+            "type": "string",
+            "description": "Hero NFT For Inu Jump"
+        },
+        "image": {
+            "type": "string",
+            "description": "/nfts/hero1.png"
+        },
+        "properties": {
+            "type": "object",
+            "description": "Arbitrary properties. Values may be strings, numbers, object or arrays."
+        }
+    }
+}
