@@ -12,6 +12,12 @@
         "link": "sportrace.html"
 	},
     {
+        "name": "Barrel Shoot",
+        "description": "Player must navigate through rotating and moving barrels. Collect balls throughout the level to defeat the eye boss and win the level!",
+        "image": "media/BarrelShoot/ss.jpg",
+        "link": "barrelshoot.html"
+	},
+    {
         "name": "Blastoff",
         "description": "Arena style multiplayer game built with Unity",
         "image": "media/blastoff/ss.png",
