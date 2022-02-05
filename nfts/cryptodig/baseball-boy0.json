@@ -1,0 +1,15 @@
+{
+    "title": "Baseball Boy NFT 0",
+    "type": "object",
+    "properties": {
+        "name": "Baseball Boy 0",
+        "decimals": "0",
+        "description": "Hero NFT For Crypto Dig",
+        "image": "/nfts/cryptodig/baseball-boy0.png",
+        "properties": "",
+        "stat_speed": "0",
+        "stat_power": "0",
+        "stat_stamina": "0",
+        "stat_luck": "0"
+    }
+}

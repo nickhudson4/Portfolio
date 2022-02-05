@@ -1,0 +1,15 @@
+{
+    "title": "Basic Boy 0 NFT",
+    "type": "object",
+    "properties": {
+        "name": "Basic Boy 0",
+        "decimals": "0",
+        "description": "Hero NFT For Crypto Dig",
+        "image": "/nfts/cryptodig/basic-boy0.png",
+        "properties": "",
+        "stat_speed": "0",
+        "stat_power": "0",
+        "stat_stamina": "0",
+        "stat_luck": "0"
+    }
+}

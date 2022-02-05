@@ -1,0 +1,15 @@
+{
+    "title": "Alien NFT",
+    "type": "object",
+    "properties": {
+        "name": "Alien",
+        "decimals": "0",
+        "description": "Hero NFT For Crypto Dig",
+        "image": "/nfts/cryptodig/alien0.png",
+        "properties": "",
+        "stat_speed": "0",
+        "stat_power": "0",
+        "stat_stamina": "0",
+        "stat_luck": "0"
+    }
+}
