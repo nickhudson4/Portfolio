@@ -1,8 +1,8 @@
 {
-    "title": "Basic Boy 0 NFT",
+    "title": "Basic Boy Color 0 NFT",
     "type": "object",
     "properties": {
-        "name": "Basic Boy 0",
+        "id": "basic-boy0",
         "decimals": "0",
         "description": "Hero NFT For Crypto Dig",
         "image": "/nfts/cryptodig/basic-boy0.png",

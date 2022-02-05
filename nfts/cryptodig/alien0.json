@@ -1,8 +1,8 @@
 {
-    "title": "Alien NFT",
+    "title": "Alien Color 0 NFT",
     "type": "object",
     "properties": {
-        "name": "Alien",
+        "id": "alien0",
         "decimals": "0",
         "description": "Hero NFT For Crypto Dig",
         "image": "/nfts/cryptodig/alien0.png",
