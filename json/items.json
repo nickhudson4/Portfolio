@@ -10,7 +10,7 @@
         "description": "Passive digging game. Collect heros and put them to work to gather gold coins!",
         "image": "media/CryptoDig/ss.jpg",
         "link": "cryptodig.html"
-	}
+	},
     {
         "name": "Sport Race",
         "description": "Complete 3 stages against AI players to win the race",
